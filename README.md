@@ -8,7 +8,6 @@ This repository contains a modular Document Editor built with Java, leveraging O
 - Usage
 - File Structure
 - Contributing
-- License
 
 ## Installation
 ### Prerequisites
