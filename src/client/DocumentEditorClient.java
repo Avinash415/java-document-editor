@@ -4,6 +4,7 @@ import core.*;
 import persistence.*;
 
 public class DocumentEditorClient {
+    // This is the client code that uses the DocumentEditor and Persistence interfaces
     public static void main(String[] args) {
         Document document = new Document();
         Persistence persistence = new FileStorage(); // or new DBStorage();
